@@ -1,4 +1,4 @@
-# Styled By Kaaye Website
+# Styled By Kaye Website
 
 ## Student Information
 - **Name:** [Your Full Name]  
