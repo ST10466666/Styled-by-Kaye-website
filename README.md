@@ -94,7 +94,8 @@ Styled By Kaaye is a small business nail service based in Johannesburg, Gauteng,
 - Unsplash. (no date) Unsplash – Beautiful free images & pictures. [online] Available at: https://unsplash.com/ [Accessed: 27 August 2025].
 
 ---
-##github link
+## github link
+https://github.com/ST10466666/Styled-by-Kaye-website
 
 ## Notes
 - This README covers **Part 1** of the Web Development project.  
