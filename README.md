@@ -1,8 +1,8 @@
 # Styled By Kaye Website
 
 ## Student Information
-- **Name:** [Your Full Name]  
-- **Student Number:** [Your Student Number]  
+- **Name:** Koketso Segaoan  
+- **Student Number:** ST10466666
 - **Module:** Web Development  
 - **Part:** 1 (Foundation)
 
