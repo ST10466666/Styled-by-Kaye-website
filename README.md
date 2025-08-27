@@ -1,7 +1,7 @@
 # Styled By Kaye Website
 
 ## Student Information
-- **Name:** Koketso Segaoan  
+- **Name:** Koketso Segoana
 - **Student Number:** ST10466666
 - **Module:** Web Development  
 - **Part:** 1 (Foundation)
