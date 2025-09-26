@@ -69,10 +69,10 @@ Styled By Kaaye is a small business nail service based in Johannesburg, Gauteng,
 - **v1.1**: Gallery and services images resized for proper display.  
 - **v1.2**: Navigation and hero section completed.  
 - **v1.3**: File and folder structure organised, comments added for clarity.
--**v1.4**: Updated commits with detailed messages (e.g., "Added semantic header and footer elements", "Restructured About page for readability").
--**v1.5**: Improved HTML5 semantic structure (ensured correct use of <header>, <main>, <footer>, <section>, and <article>).
--**v1.6**: Expanded in-code comments to explain layout decisions, navigation links, and form structure.
--**v1.7**: Refined content tags and corrected minor inconsistencies in structure (e.g., fixed heading hierarchy, improved alt attributes for images).
+- **v1.4**: Updated commits with detailed messages (e.g., "Added semantic header and footer elements", "Restructured About page for readability").
+- **v1.5**: Improved HTML5 semantic structure (ensured correct use of <header>, <main>, <footer>, <section>, and <article>).
+- **v1.6**: Expanded in-code comments to explain layout decisions, navigation links, and form structure.
+- **v1.7**: Refined content tags and corrected minor inconsistencies in structure (e.g., fixed heading hierarchy, improved alt attributes for images).
 ---
 ## Content Research and Sourcing
 - **Organisation's Website**: Used existing content as a reference for services and history.  
