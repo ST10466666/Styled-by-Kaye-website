@@ -4,7 +4,7 @@
 - **Name:** Koketso Segoana
 - **Student Number:** ST10466666
 - **Module:** Web Development  
-- **Part:** 1 (Foundation)
+- **Part:** 2 (Foundation)
 
 ---
 
@@ -43,15 +43,23 @@ Styled By Kaaye is a small business nail service based in Johannesburg, Gauteng,
 
 ---
 
-## Part 1 Details
-- Focus on project initiation, research, and HTML structure.  
-- Five web pages created: index.html, about.html, services.html, enquiry.html, contact.html.  
-- File structure established with folders: css, js, images.  
-- Basic HTML elements implemented including header, navigation, main content, footer, images, and links.  
-- Navigation links are functional across all pages.  
-- Comments included for readability.
+## Part 2 Details
+- **External Stylesheet**: `style.css` linked to all HTML pages
+- **Color Scheme**: Soft pink (#ffb6c1) with accent colors (#ff6f91, #ffe4e9)
+- **Typography**: Poppins font family for modern, clean appearance
+- **Layout**: CSS Grid and Flexbox for responsive design
+- **Header**: Fixed navigation with "Styled by Kaye" branding
+- **Interactive Elements**: Hover effects on cards and navigation
+- **Responsive Design**: Mobile-friendly media queries
 
 ---
+### CSS Features Implemented:
+- Professional header with brand identity
+- Hero section with background image
+- Service cards with hover animations
+- Contact form styling
+- Consistent spacing and typography
+- Mobile-responsive navigation
 ---
 
 ## Sitemap
@@ -73,6 +81,10 @@ Styled By Kaaye is a small business nail service based in Johannesburg, Gauteng,
 - **v1.5**: Improved HTML5 semantic structure (ensured correct use of <header>, <main>, <footer>, <section>, and <article>).
 - **v1.6**: Expanded in-code comments to explain layout decisions, navigation links, and form structure.
 - **v1.7**: Refined content tags and corrected minor inconsistencies in structure (e.g., fixed heading hierarchy, improved alt attributes for images).
+- **v2.0**: CSS styling implemented across all pages
+- **v2.1**: Responsive design added with media queries
+- **v2.2**: Interactive hover effects and animations
+- **v2.3**: Final polish and cross-browser testing
 ---
 ## Content Research and Sourcing
 - **Organisation's Website**: Used existing content as a reference for services and history.  
@@ -86,6 +98,28 @@ Styled By Kaaye is a small business nail service based in Johannesburg, Gauteng,
 
 ---
 
+## How it shows on a mobile phone and desktop
+<img width="1801" height="918" alt="phone" src="https://github.com/user-attachments/assets/27b98505-df4e-471f-bf42-3402bc222694" />
+
+## Technical Specifications
+### Technologies Used:
+- **HTML5**: Semantic markup structure
+- **CSS3**: Modern styling with Flexbox/Grid
+- **Responsive Design**: Mobile-first approach
+  
+---
+- ### Performance Features:
+- Optimized images
+- Minimal CSS footprint
+- Fast loading times
+
+ ---
+ ### Browser Compatibility:
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+ ---
 ## References
 - Flaticon. (no date) Flaticon – Free vectors and icons. [online] Available at: https://www.flaticon.com/ [Accessed: 27 August 2025].  
 - Precious Nails and Makeup, 2025. Make Your Day. [online] Available at: https://www.tiktok.com/@preciousknailsandmakeup?_t=ZS-8z0eofliPum&_r=1 [Accessed 19 August 2025].  
@@ -97,7 +131,8 @@ Styled By Kaaye is a small business nail service based in Johannesburg, Gauteng,
 https://github.com/ST10466666/Styled-by-Kaye-website
 
 ## Notes
-- This README covers **Part 1** of the Web Development project.  
-- Parts 2 and 3 covers **CSS styling** and **JavaScript functionality**, and updates will be tracked here.
-- Changelog now includes detailed edits based on feedback.
--Code comments and semantic tags were expanded to improve clarity and consistency.
+- This README covers **Part 2** of the Web Development project (CSS Styling)
+- Part 1 covered HTML structure and semantic markup
+- Part 3 will cover JavaScript functionality and interactivity
+- All code includes detailed comments for maintainability
+- Project follows web accessibility best practices
