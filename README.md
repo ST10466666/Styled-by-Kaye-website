@@ -48,7 +48,6 @@ Styled By Kaye is a small business nail service based in Johannesburg, Gauteng, 
 - **Lightbox gallery** for services: click an image to zoom and navigate to next/previous image  
 - Form submission feedback messages (e.g., "We have received your enquiry")  
 - Mobile-friendly toggle navigation  
-- <img width="1362" height="1002" alt="Screenshot 2025-11-18 231929" src="https://github.com/user-attachments/assets/adf0c40f-fdbb-4b5d-b520-23c6e6ec3784" />
 Smooth transitions and hover effects powered by JS
 - 
 <img width="682" height="890" alt="Screenshot 2025-11-18 231900" src="https://github.com/user-attachments/assets/d77e291a-5656-4708-b7b7-2685afcf2049" />
@@ -108,11 +107,9 @@ Smooth transitions and hover effects powered by JS
 ## Mobile & Desktop Views
 - Fully responsive layout with flexible images and grid layout  
 - Interactive elements optimized for touch on mobile and hover on desktop  
-
-![Mobile/Desktop Preview](https://github.com/user-attachments/assets/27b98505-df4e-471f-bf42-3402bc222694)
+<img width="1362" height="1002" alt="Screenshot 2025-11-18 231929" src="https://github.com/user-attachments/assets/5f463c34-554b-4af5-afd6-5b2d64a0a46b" />
 
 ---
-
 ## Technical Specifications
 - **HTML5**: Semantic and accessible markup  
 - **CSS3**: Flexbox and Grid for responsive layout, hover effects, transitions  
